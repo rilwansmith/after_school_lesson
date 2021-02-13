@@ -1,15 +1,15 @@
 {
-   "name": "After School Lesson",
-   "short_name": "after_school_lesson",
-   "description": "my after school lesson",
-   "icons": [
+    "name": "After School Lesson",
+    "short_name": "after_school_lesson",
+    "description": "my after school lesson",
+    "icons": [
        {
-           "src": "images/product-maths.jpg",
-           "sizes": "132x157",
-           "type": "image/jpg"
+        "src": "images/product-maths.jpg",
+        "sizes": "132x157",
+        "type": "image/jpg"
        }
-   ],
-   "start_url": "index.html",
-   "display": "fullscreen",
-   "background_color": "#B12A34"
-}
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+ }
