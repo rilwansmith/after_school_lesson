@@ -4,8 +4,8 @@
     "description": "my after school lesson",
     "icons": [
        {
-        "src": "images/product-maths.jpg",
-        "sizes": "132x157",
+        "src": "images/product-maths.png",
+        "sizes": "512x512",
         "type": "image/jpg"
        }
     ],
