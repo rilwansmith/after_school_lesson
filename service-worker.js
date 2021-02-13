@@ -4,7 +4,7 @@ var cacheFiles = [
    'group.html',
    'products.js',
    'AfterSchoolLesson.webmanifest',
-   'SONG Unique Logo Design.jpg',
+   'images/SONG Unique Logo Design.jpg',
    'images/product-ball.jpg',
    'images/product-bball.jpg',
    'images/product-education.jpg',
