@@ -1,7 +1,7 @@
 {
    "name": "After School Lesson",
-   "short_name": "After School Lesson",
-   "description": "my online pet store",
+   "short_name": "after_school_lesson",
+   "description": "my after school lesson",
    "icons": [
        {
            "src": "images/product-maths.jpg",
